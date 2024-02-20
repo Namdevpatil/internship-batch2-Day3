@@ -1,0 +1,21 @@
+Class: it is blueprint/template based on this we will create the Java Objects.
+=====
+
+Note: based on single class, we can able to create multiple instances/objects.
+====
+
+Java class contains:
+===================
+	fields(variables) and behavior(methods)
+
+about 'new' keyword: 
+
+Task:
+----
+  Product:
+	- id
+	- name
+	- category
+	- model
+	- price
+	+ getProductDetails(): void

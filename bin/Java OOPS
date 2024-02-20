@@ -1,0 +1,18 @@
+OOPS: object oriented programming system
+====
+
+Why OOPS?
+bottom up approach
+
+Why not Procedural Programming?
+
+=> functions: data 
+=> top to down
+
+problems: 
+1. it is slow as compare OOPS
+2. it do not  have clear structure of the program.
+3. the code it not reusable, modifiable, maintainable and not able to do debugging 
+4. it takes more time to develop the programs
+
+
